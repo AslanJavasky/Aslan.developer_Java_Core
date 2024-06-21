@@ -36,7 +36,7 @@ public class BigNumberClass {
         System.out.println(bigDec.divide(bigDec2));
         System.out.println(bigDec.subtract(bigDec2));
 
-        //constants of BigInteger
+        //constants of BigDecimal
         System.out.println(BigDecimal.ONE);
         System.out.println(BigDecimal.TWO);
         System.out.println(BigDecimal.ZERO);
